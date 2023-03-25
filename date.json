@@ -45,6 +45,78 @@
         "Health":"Vaccinări la zi, nevoi speciale",
         "Meet":"Oliver este social și adaptabil, fiind antrenat să interacționeze cu oamenii. Este de obicei foarte curioas și plin de energie, fiind un companion excelent pentru cei care își doresc un stil de viață activ.",
         "Social":"Se înțelege bine cu alte pisici"
+    },
+    {
+        "Name":"Tina",
+        "Image":"C:/Users/myuser12/Desktop/Elaborarea lucrării de licenţă/Licenta/Licenta/Resources/Images/sfinx.jpg",
+        "Breed":"Sfinx",
+        "Type":"Pisica",
+        "Location":"Cluj-Napoca",
+        "Size":"Adult",
+        "Gender":"Femela",
+        "Health":"Vaccinări la zi, sterilizata",
+        "Meet":"Tina este foarte activă și curioasă, fiind mereu în mișcare și explorând lumea din jurul ei. Ea are nevoie de multă atenție și afecțiune. De asemenea, are o personalitate jucăușă și afectuoasă.",
+        "Social":"Se înțelege bine cu alte pisici"
+    },
+    {
+        "Name":"Tiger",
+        "Image":"C:/Users/myuser12/Desktop/Elaborarea lucrării de licenţă/Licenta/Licenta/Resources/Images/ragdoll.jpg",
+        "Breed":"Ragdoll",
+        "Type":"Pisica",
+        "Location":"Cluj-Napoca",
+        "Size":"Adult",
+        "Gender":"Mascul",
+        "Health":"Vaccinări la zi",
+        "Meet":"Datorită naturii lui blânde și afectuoase, Tiger este excelent pentru familii cu copii sau pentru persoanele care doresc un companion calm și blând. De asemenea, el este capabil să se adapteze la diferite medii și stiluri de viață.",
+        "Social":"Se înțelege bine cu alte pisici"
+    },
+     {
+        "Name":"Chloe",
+        "Image":"C:/Users/myuser12/Desktop/Elaborarea lucrării de licenţă/Licenta/Licenta/Resources/Images/munchkin.jpg",
+        "Breed":"Munchkin",
+        "Type":"Pisica",
+        "Location":"Cluj-Napoca",
+        "Size":"Pui",
+        "Gender":"Femela",
+        "Health":"Vaccinări la zi, nesterilizata",
+        "Meet":"Chloe este, de obicei, destul de energică și jucăușă și îi place să fie implicată în activități interactive cu proprietarii săi. Ea prezinta o personalitate afectuoasă și plină de viață, atasandu-se usor de proprietar.",
+        "Social":"Se înțelege bine cu alte pisici"
+    },
+     {
+        "Name":"Sophie",
+        "Image":"C:/Users/myuser12/Desktop/Elaborarea lucrării de licenţă/Licenta/Licenta/Resources/Images/savannah.jpg",
+        "Breed":"Savannah",
+        "Type":"Pisica",
+        "Location":"Cluj-Napoca",
+        "Size":"Pui",
+        "Gender":"Femela",
+        "Health":"Vaccinări la zi, nesterilizata",
+        "Meet":"Sophie este o rasă de pisici care impresionează prin aspectul său exotic și temperamentul său alert și activ. Ea este foarte inteligentă și curioasă, fiind mereu în căutarea unor noi aventuri și provocări.",
+        "Social":"Se înțelege bine cu alte pisici"
+    },
+    {
+        "Name":"Mia",
+        "Image":"C:/Users/myuser12/Desktop/Elaborarea lucrării de licenţă/Licenta/Licenta/Resources/Images/birmaneza.jpg",
+        "Breed":"Birmaneza",
+        "Type":"Pisica",
+        "Location":"Cluj-Napoca",
+        "Size":"Pui",
+        "Gender":"Femela",
+        "Health":"Vaccinări la zi, nesterilizata",
+        "Meet":"Mia este cunoscuta pentru temperamentul ei afectuos și jucăuș, fiind iubitoare și atașandu-se repede. Ea este, de asemenea, destul de liniștita si inteligenta.",
+        "Social":"Se înțelege bine cu alte pisici"
+    },
+    {
+        "Name":"Finn",
+        "Image":"C:/Users/myuser12/Desktop/Elaborarea lucrării de licenţă/Licenta/Licenta/Resources/Images/pudel.jpg",
+        "Breed":"Pudel",
+        "Type":"Caine",
+        "Location":"Cluj-Napoca",
+        "Size":"Pui",
+        "Gender":"Mascul",
+        "Health":"Vaccinări la zi, necastrat",
+        "Meet":"Finn este foarte inteligent și ii place să învețe și să fie antrenat, avand un temperamentul afectuos și prietenos. De asemenea, datorita personalitatii jucăușe are nevoie de o mulțime de activități și exerciții pentru a-și păstra mintea și corpul sănătoase.",
+        "Social":"Se înțelege bine cu alti caini"
     }
 ]
 
