@@ -1,0 +1,49 @@
+[   {
+        "Name":"Kaya",
+        "Image":"C:/Users/myuser12/Desktop/Elaborarea lucrării de licenţă/Licenta/Licenta/Resources/Images/burmilla.jpg",
+        "Breed":"Burmilla",
+        "Type":"Pisica",
+        "Location":"Cluj-Napoca",
+        "Size":"Adult",
+        "Gender":"Femela",
+        "Health":"Vaccinări la zi, sterilizata, nevoi speciale",
+        "Meet":"Îi place să se joace și să sară pe mobilier. Kaya este foarte dulce și iubitoare, dar poate fi uneori neastâmpărată și energică.",
+        "Social":"Se înțelege bine cu alte pisici"
+    },
+    {
+        "Name":"Luna",
+        "Image":"C:/Users/myuser12/Desktop/Elaborarea lucrării de licenţă/Licenta/Licenta/Resources/Images/siameza.jpg",
+        "Breed":"Siameza",
+        "Type":"Pisica",
+        "Location":"Cluj-Napoca",
+        "Size":"Pui",
+        "Gender":"Femela",
+        "Health":"Vaccinări la zi, nesterilizata",
+        "Meet":"Foarte jucausa si iubitoare. Ea va fi una dintre primele pisici care te va intampina dacă mergi in camera în care se află. Luna adora sa fie mangaiata, si are nevoie de atentie speciala deoarece cand ajunge intr-un mediu nou nu se simte foarte confortabila.",
+        "Social":"Se înțelege bine cu alte pisici"
+    },
+    {
+        "Name":"Alexa",
+        "Image":"C:/Users/myuser12/Desktop/Elaborarea lucrării de licenţă/Licenta/Licenta/Resources/Images/persana.jpg",
+        "Breed":"Persana",
+        "Type":"Pisica",
+        "Location":"Cluj-Napoca",
+        "Size":"Adult",
+        "Gender":"Femela",
+        "Health":"Vaccinări la zi, sterilizata",
+        "Meet":"Alexa tinde să fie prietenoasa, afectuoasa și docila, fiind perfecta pentru un mediu familial calm. În ciuda naturii ei blânde, poate fi destul de jucăușa.",
+        "Social":"Se înțelege bine cu alte pisici"
+    },
+    {
+        "Name":"Oliver",
+        "Image":"C:/Users/myuser12/Desktop/Elaborarea lucrării de licenţă/Licenta/Licenta/Resources/Images/bengaleza.jpg",
+        "Breed":"Bengaleza",
+        "Type":"Pisica",
+        "Location":"Cluj-Napoca",
+        "Size":"Adult",
+        "Gender":"Mascul",
+        "Health":"Vaccinări la zi, nevoi speciale",
+        "Meet":"Oliver este social și adaptabil, fiind antrenat să interacționeze cu oamenii. Este de obicei foarte curioas și plin de energie, fiind un companion excelent pentru cei care își doresc un stil de viață activ.",
+        "Social":"Se înțelege bine cu alte pisici"
+    },
+]
