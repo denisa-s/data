@@ -117,6 +117,114 @@
         "Health":"Vaccinări la zi, necastrat",
         "Meet":"Finn este foarte inteligent și ii place să învețe și să fie antrenat, avand un temperamentul afectuos și prietenos. De asemenea, datorita personalitatii jucăușe are nevoie de o mulțime de activități și exerciții pentru a-și păstra mintea și corpul sănătoase.",
         "Social":"Se înțelege bine cu alti caini"
-    }
+    },
+    {
+        "Name":"Rex",
+        "Image":"C:/Users/myuser12/Desktop/Elaborarea lucrării de licenţă/Licenta/Licenta/Resources/Images/labradog.jpg",
+        "Breed":"Labrador retriever",
+        "Type":"Caine",
+        "Location":"Cluj-Napoca",
+        "Size":"Pui",
+        "Gender":"Mascul",
+        "Health":"Vaccinări la zi, necastrat",
+        "Meet":".",
+        "Social":"Se înțelege bine cu alti caini"
+   },
+   {
+        "Name":"Thor",
+        "Image":"C:/Users/myuser12/Desktop/Elaborarea lucrării de licenţă/Licenta/Licenta/Resources/Images/shiba.jpg",
+        "Breed":"Shiba Inu",
+        "Type":"Caine",
+        "Location":"Cluj-Napoca",
+        "Size":"Adult",
+        "Gender":"Mascul",
+        "Health":"Vaccinări la zi, necastrat",
+        "Meet":".",
+        "Social":"Se înțelege bine cu alti caini"
+   },
+   {
+        "Name":"Max",
+        "Image":"C:/Users/myuser12/Desktop/Elaborarea lucrării de licenţă/Licenta/Licenta/Resources/Images/pomeranian.jpg",
+        "Breed":"Pomeranian",
+        "Type":"Caine",
+        "Location":"Cluj-Napoca",
+        "Size":"Pui",
+        "Gender":"Mascul",
+        "Health":"Vaccinări la zi, necastrat",
+        "Meet":".",
+        "Social":"Se înțelege bine cu alti caini"
+   },
+   {
+        "Name":"Bella",
+        "Image":"C:/Users/myuser12/Desktop/Elaborarea lucrării de licenţă/Licenta/Licenta/Resources/Images/bichon.jpg",
+        "Breed":"Bichon maltez",
+        "Type":"Caine",
+        "Location":"Cluj-Napoca",
+        "Size":"Pui",
+        "Gender":"Femela",
+        "Health":"Vaccinări la zi, nesterilizata",
+        "Meet":".",
+        "Social":"Se înțelege bine cu alti caini"
+   },
+   {
+        "Name":"Lola",
+        "Image":"C:/Users/myuser12/Desktop/Elaborarea lucrării de licenţă/Licenta/Licenta/Resources/Images/cocker.jpg",
+        "Breed":"Cocker spaniel",
+        "Type":"Caine",
+        "Location":"Cluj-Napoca",
+        "Size":"Adult",
+        "Gender":"Femela",
+        "Health":"Vaccinări la zi, nesterilizata",
+        "Meet":".",
+        "Social":"Se înțelege bine cu alti caini"
+   },
+   {
+        "Name":"Roxy",
+        "Image":"C:/Users/myuser12/Desktop/Elaborarea lucrării de licenţă/Licenta/Licenta/Resources/Images/chow.jpg",
+        "Breed":"Chow Chow",
+        "Type":"Caine",
+        "Location":"Cluj-Napoca",
+        "Size":"Adult",
+        "Gender":"Femela",
+        "Health":"Vaccinări la zi, nesterilizata",
+        "Meet":".",
+        "Social":"Se înțelege bine cu alti caini"
+   },
+   {
+        "Name":"Sasha",
+        "Image":"C:/Users/myuser12/Desktop/Elaborarea lucrării de licenţă/Licenta/Licenta/Resources/Images/samoyed.jpg",
+        "Breed":"Samoyed",
+        "Type":"Caine",
+        "Location":"Cluj-Napoca",
+        "Size":"Pui",
+        "Gender":"Femela",
+        "Health":"Vaccinări la zi, nesterilizata",
+        "Meet":".",
+        "Social":"Se înțelege bine cu alti caini"
+   },
+   {
+        "Name":"Goldie",
+        "Image":"C:/Users/myuser12/Desktop/Elaborarea lucrării de licenţă/Licenta/Licenta/Resources/Images/labradoodle.jpg",
+        "Breed":"Labradoodle",
+        "Type":"Caine",
+        "Location":"Cluj-Napoca",
+        "Size":"Pui",
+        "Gender":"Mascul",
+        "Health":"Vaccinări la zi, necastrat",
+        "Meet":".",
+        "Social":"Se înțelege bine cu alti caini"
+   },
+  {
+        "Name":"Tesa",
+        "Image":"C:/Users/myuser12/Desktop/Elaborarea lucrării de licenţă/Licenta/Licenta/Resources/Images/beagle.jpg",
+        "Breed":"Beagle",
+        "Type":"Caine",
+        "Location":"Cluj-Napoca",
+        "Size":"Adult",
+        "Gender":"Mascul",
+        "Health":"Vaccinări la zi, necastrat",
+        "Meet":".",
+        "Social":"Se înțelege bine cu alti caini"
+   }
 ]
 
