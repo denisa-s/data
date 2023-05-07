@@ -8,7 +8,7 @@
         "Gender":"Female",
         "Health":"Vaccinations up to date, spayed, special needs",
         "Meet":"She likes to play and jump on the furniture. Kaya is very sweet and loving, but can be hot-tempered and energetic at times.",
-        "Social":"Gets along well with other cats"
+        "Social":"Gets along well with other cats and dogs"
     },
     {
         "Name":"Luna",
@@ -32,7 +32,7 @@
         "Gender":"Female",
         "Health":"Vaccinations up to date, sterilized",
         "Meet":"Alexa tends to be friendly, affectionate and docile, being perfect for a calm family environment. Despite her gentle nature, she can be quite playful.",
-        "Social":"Gets along well with other cats"
+        "Social":"Gets along well with other cats and kids"
     },
     {
         "Name":"Oliver",
@@ -44,7 +44,7 @@
         "Gender":"Male",
         "Health":"Vaccinations up to date, special needs",
         "Meet":"Oliver is social and adaptable, having been trained to interact with people. He is usually very curious and full of energy, being an excellent companion for those who want an active lifestyle.",
-        "Social":"Gets along well with other cats"
+        "Social":"Gets along well with other cats and dogs"
     },
     {
         "Name":"Tina",
@@ -56,7 +56,7 @@
         "Gender":"Female",
         "Health":"Vaccinations up to date, sterilized",
         "Meet":"Tina is very active and curious, always on the move and exploring the world around her. She needs a lot of attention and affection. She also has a playful and affectionate personality.",
-        "Social":"Gets along well with other cats"
+        "Social":"Gets along well with other cats and dogs"
     },
     {
         "Name":"Tiger",
@@ -68,7 +68,7 @@
         "Gender":"Male",
         "Health":"Up-to-date vaccinations",
         "Meet":"Due to its gentle and affectionate nature, Tiger is excellent for families with children or for people who want a calm and gentle companion. He is also able to adapt to different environments and lifestyles.",
-        "Social":"Gets along well with other cats"
+        "Social":"Gets along well with kids"
     },
      {
         "Name":"Chloe",
@@ -80,7 +80,7 @@
         "Gender":"Female",
         "Health":"Up-to-date vaccinations, unsterilized",
         "Meet":"Chloe is usually quite energetic and playful and likes to be involved in interactive activities with her owners. She has an affectionate and lively personality, easily getting attached to her owner.",
-        "Social":"Gets along well with other cats"
+        "Social":"Gets along well with kids"
     },
      {
         "Name":"Sophie",
@@ -104,7 +104,7 @@
         "Gender":"Female",
         "Health":"Up-to-date vaccinations, unsterilized",
         "Meet":"Mia is known for her affectionate and playful temperament, being loving and easily attached. She is also quite quiet and intelligent.",
-        "Social":"Gets along well with other cats"
+        "Social":"Gets along well with other cats and dogs"
     },
     {
         "Name":"Finn",
@@ -116,7 +116,7 @@
         "Gender":"Male",
         "Health":"Vaccinations up to date, not neutered",
         "Meet":"Finn is very intelligent and loves to learn and be trained, with an affectionate and friendly temperament. Also, due to his playful personality he needs a lot of activity and exercise to keep his mind and body healthy.",
-        "Social":"Gets along well with other dogs"
+        "Social":"Gets along well with other dogs and kids"
     },
     {
         "Name":"Rex",
@@ -128,7 +128,7 @@
         "Gender":"Male",
         "Health":"Vaccinations up to date, not neutered",
         "Meet":"Rex is a very active dog and requires daily exercise and playtime. Due to his friendly and gentle nature, Rex makes a great family pet and is a good match with children.",
-        "Social":"Gets along well with other dogs"
+        "Social":"Gets along well with other cats"
    },
    {
         "Name":"Thor",
@@ -152,7 +152,7 @@
         "Gender":"Male",
         "Health":"Vaccinations up to date, not neutered",
         "Meet":"Max is a lively and friendly dog, with a curious and confident personality. He is a social dog and loves to be around people and other animals, making him a great choice for families with children and other pets.",
-        "Social":"Gets along well with other dogs"
+        "Social":"Gets along well with other dogs and kids"
    },
    {
         "Name":"Bella",
@@ -176,7 +176,7 @@
         "Gender":"Female",
         "Health":"Up-to-date vaccinations, unsterilized",
         "Meet":"Lola is intelligent and trainable, and she excels in activities such as obedience training and agility. However, she can be sensitive and may not respond well to harsh or forceful training methods.",
-        "Social":"Gets along well with other dogs"
+        "Social":"Gets along well with cats"
    },
    {
         "Name":"Roxy",
@@ -188,7 +188,7 @@
         "Gender":"Female",
         "Health":"Up-to-date vaccinations, unsterilized",
         "Meet":"Roxy is an independent and aloof dog, with a dignified and reserved personality. She can be loyal and affectionate with her owners but may not be as outgoing or friendly with strangers. She is also known for being protective, making her a good guard dog.",
-        "Social":"Gets along well with other dogs"
+        "Social":"Gets along well with other dogs and cats"
    },
    {
         "Name":"Sasha",
@@ -212,7 +212,7 @@
         "Gender":"Male",
         "Health":"Vaccinations up to date, not neutered",
         "Meet":"Goldie is intelligent and trainable, and he excels in activities such as obedience training and agility. He requires regular exercise and playtime, but he doesn't need as much exercise as some other breeds.",
-        "Social":"Gets along well with other dogs"
+        "Social":"Gets along well with other dogs and kids"
    },
   {
         "Name":"Tesa",
@@ -224,7 +224,7 @@
         "Gender":"Female",
         "Health":"Up-to-date vaccinations, unsterilized",
         "Meet":"Tesa is intelligent and curious, and she loves to explore and follow scents. She is also known for her loyalty, making her a great family pet. She also requires regular exercise and playtime to keep her mentally and physically stimulated.",
-        "Social":"Gets along well with other dogs"
+        "Social":"Gets along well with other dogs and kids"
    }
 ]
 
