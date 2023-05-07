@@ -2,13 +2,13 @@
         "Name":"Kaya",
         "Image":"C:/Users/myuser12/Desktop/Elaborarea lucrării de licenţă/Licenta/Licenta/Resources/Images/burmilla.jpg",
         "Breed":"Burmilla",
-        "Type":"Pisica",
+        "Type":"Cat",
         "Location":"Cluj-Napoca",
         "Size":"Adult",
-        "Gender":"Femela",
-        "Health":"Vaccinări la zi, sterilizata, nevoi speciale",
-        "Meet":"Îi place să se joace și să sară pe mobilier. Kaya este foarte dulce și iubitoare, dar poate fi uneori neastâmpărată și energică.",
-        "Social":"Se înțelege bine cu alte pisici"
+        "Gender":"Female",
+        "Health":"Vaccinations up to date, spayed, special needs",
+        "Meet":"She likes to play and jump on the furniture. Kaya is very sweet and loving, but can be hot-tempered and energetic at times.",
+        "Social":"Gets along well with other cats"
     },
     {
         "Name":"Luna",
