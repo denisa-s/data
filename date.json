@@ -112,10 +112,10 @@
         "Breed":"Poodle",
         "Type":"Dog",
         "Location":"Cluj-Napoca",
-        "Size":"Pui",
+        "Size":"Baby",
         "Gender":"Male",
-        "Health":"Vaccinări la zi, necastrat",
-        "Meet":"Finn este foarte inteligent și ii place să învețe și să fie antrenat, avand un temperamentul afectuos și prietenos. De asemenea, datorita personalitatii jucăușe are nevoie de o mulțime de activități și exerciții pentru a-și păstra mintea și corpul sănătoase.",
+        "Health":"Vaccinations up to date, not neutered",
+        "Meet":"Finn is very intelligent and loves to learn and be trained, with an affectionate and friendly temperament. Also, due to his playful personality he needs a lot of activity and exercise to keep his mind and body healthy.",
         "Social":"Gets along well with other dogs"
     },
     {
@@ -124,10 +124,10 @@
         "Breed":"Labrador retriever",
         "Type":"Dog",
         "Location":"Cluj-Napoca",
-        "Size":"Pui",
+        "Size":"Baby",
         "Gender":"Male",
-        "Health":"Vaccinări la zi, necastrat",
-        "Meet":".",
+        "Health":"Vaccinations up to date, not neutered",
+        "Meet":"Rex is a very active dog and requires daily exercise and playtime. Due to his friendly and gentle nature, Rex makes a great family pet and is a good match with children.",
         "Social":"Gets along well with other dogs"
    },
    {
@@ -138,8 +138,8 @@
         "Location":"Cluj-Napoca",
         "Size":"Adult",
         "Gender":"Male",
-        "Health":"Vaccinări la zi, necastrat",
-        "Meet":".",
+        "Health":"Vaccinations up to date, not neutered",
+        "Meet":"While Thor is independent, he is also loyal and affectionate. He is not typically as outgoing as some other breeds but he can be playful and enjoy spending time with his family.",
         "Social":"Gets along well with other dogs"
    },
    {
@@ -148,22 +148,22 @@
         "Breed":"Pomeranian",
         "Type":"Dog",
         "Location":"Cluj-Napoca",
-        "Size":"Pui",
+        "Size":"Baby",
         "Gender":"Male",
-        "Health":"Vaccinări la zi, necastrat",
-        "Meet":".",
+        "Health":"Vaccinations up to date, not neutered",
+        "Meet":"Max is a lively and friendly dog, with a curious and confident personality. He is a social dog and loves to be around people and other animals, making him a great choice for families with children and other pets.",
         "Social":"Gets along well with other dogs"
    },
    {
         "Name":"Bella",
         "Image":"C:/Users/myuser12/Desktop/Elaborarea lucrării de licenţă/Licenta/Licenta/Resources/Images/bichon.jpg",
-        "Breed":"Bichon maltez",
+        "Breed":"Bichon Maltese",
         "Type":"Dog",
         "Location":"Cluj-Napoca",
-        "Size":"Pui",
+        "Size":"Baby",
         "Gender":"Female",
-        "Health":"Vaccinări la zi, nesterilizata",
-        "Meet":".",
+        "Health":"Up-to-date vaccinations, unsterilized",
+        "Meet":"Bella is a hypoallergenic dog, which makes her a good choice for individuals with allergies. She is known for her friendly and outgoing nature, as well as her intelligence and trainability. She loves being around people and other animals, making her a great choice for families with children and other pets.",
         "Social":"Gets along well with other dogs"
    },
    {
@@ -174,8 +174,8 @@
         "Location":"Cluj-Napoca",
         "Size":"Adult",
         "Gender":"Female",
-        "Health":"Vaccinări la zi, nesterilizata",
-        "Meet":".",
+        "Health":"Up-to-date vaccinations, unsterilized",
+        "Meet":"Lola is intelligent and trainable, and she excels in activities such as obedience training and agility. However, she can be sensitive and may not respond well to harsh or forceful training methods.",
         "Social":"Gets along well with other dogs"
    },
    {
@@ -186,8 +186,8 @@
         "Location":"Cluj-Napoca",
         "Size":"Adult",
         "Gender":"Female",
-        "Health":"Vaccinări la zi, nesterilizata",
-        "Meet":".",
+        "Health":"Up-to-date vaccinations, unsterilized",
+        "Meet":"Roxy is an independent and aloof dog, with a dignified and reserved personality. She can be loyal and affectionate with her owners but may not be as outgoing or friendly with strangers. She is also known for being protective, making her a good guard dog.",
         "Social":"Gets along well with other dogs"
    },
    {
@@ -196,10 +196,10 @@
         "Breed":"Samoyed",
         "Type":"Dog",
         "Location":"Cluj-Napoca",
-        "Size":"Pui",
+        "Size":"Baby",
         "Gender":"Female",
-        "Health":"Vaccinări la zi, nesterilizata",
-        "Meet":".",
+        "Health":"Up-to-date vaccinations, unsterilized",
+        "Meet":"Sasha is a friendly and affectionate dog, known for her love of people and her eagerness to please. She is also highly intelligent and trainable, making her a good candidate for obedience training and other activities such as agility and tracking.",
         "Social":"Gets along well with other dogs"
    },
    {
@@ -208,10 +208,10 @@
         "Breed":"Labradoodle",
         "Type":"Dog",
         "Location":"Cluj-Napoca",
-        "Size":"Pui",
+        "Size":"Baby",
         "Gender":"Male",
-        "Health":"Vaccinări la zi, necastrat",
-        "Meet":".",
+        "Health":"Vaccinations up to date, not neutered",
+        "Meet":"Goldie is intelligent and trainable, and he excels in activities such as obedience training and agility. He requires regular exercise and playtime, but he doesn't need as much exercise as some other breeds.",
         "Social":"Gets along well with other dogs"
    },
   {
@@ -222,8 +222,8 @@
         "Location":"Cluj-Napoca",
         "Size":"Adult",
         "Gender":"Female",
-        "Health":"Vaccinări la zi, necastrat",
-        "Meet":".",
+        "Health":"Up-to-date vaccinations, unsterilized",
+        "Meet":"Tesa is intelligent and curious, and she loves to explore and follow scents. She is also known for her loyalty, making her a great family pet. She also requires regular exercise and playtime to keep her mentally and physically stimulated.",
         "Social":"Gets along well with other dogs"
    }
 ]
